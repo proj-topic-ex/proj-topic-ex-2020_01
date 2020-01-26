@@ -6,9 +6,10 @@ Overview
 ## Description
 
 ## Requirement
-Apache/2.4
-PHP/7.2
-Highcharts2.3
+Apache/2.4  
+MariaDB/10.1  
+PHP/7.2  
+Highcharts2.3  
 
 ## Usage
 
