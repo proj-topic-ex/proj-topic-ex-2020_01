@@ -35,7 +35,7 @@ Copy all files under your document root and install HighRoller to a directory tw
  File name: stoplist.txt
  Format: Text separted by a newline.
 
-Execute the following per script in the "preprocessing" directory.
+Execute the following per scripts in the "preprocessing" directory.
 > perl CAS_char_convert.pl <original_file> <file_1>  
 > perl it_split_mh.pl <file_1> > <file_2>  
 > perl abs_decomp.pl <file_1> <file_3>  
