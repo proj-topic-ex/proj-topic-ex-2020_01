@@ -28,12 +28,13 @@ Copy all files under your document root and install HighRoller to a directory tw
 - Conversion table to CAS Standard abbeviations & acronyms.
   File name: CAS_char_table.txt
   Source:
-   CAS. CAS Standard Abbreviations & Acronyms, https://www.cas.org/support/documentation/references/cas-standard-abbreviations
+   CAS. CAS Standard Abbreviations & Acronyms,  
+   https://www.cas.org/support/documentation/references/cas-standard-abbreviations  
   Format: Tab separated text with two columns. (<a word to be coverted>\t<converted word(s))
 
-- Stopword list
- File name: stoplist.txt
- Format: Text separted by a newline.
+- Stopword list  
+ File name: stoplist.txt  
+ Format: Text separted by a newline.  
 
 Execute the following per scripts in the "preprocessing" directory.
 > perl CAS_char_convert.pl <original_file> <file_1>  
