@@ -17,7 +17,7 @@ PHP/7.2
 Highcharts2.3  
 
 ## Setup
-Copy all files under your document root and install HighRoller to a directory two levels up.
+Copy all files under the document root and install HighRoller to a directory two levels up.
 
 ## Preprocessing
 1. Download data from SciFinder in the Quated/tab format.
