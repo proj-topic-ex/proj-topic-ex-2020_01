@@ -16,9 +16,11 @@ MariaDB/10.1
 PHP/7.2  
 Highcharts2.3  
 
-## Usage
-
 ## Install
+Copy all files into a local directory.
+
+## Usage
+Execute "start.php".
 
 ## Licence
 These codes are licensed under CC0.
